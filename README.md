@@ -26,7 +26,7 @@
   <img align="center" alt="visual-studio" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <div/><br/>
 
-Meus contatos:
+## Meus contatos:
 
 <div> 
    <a href = "mailto:storrerrenan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
