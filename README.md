@@ -1,4 +1,4 @@
-## Olá, eu sou o Renan Rafael Storrer
+## Olá, eu sou o Renan Rafael Storrer!
 
 - 🔭 Estou procurando meu primeiro emprego como um desenvolvedor FullStack
 - 🌱 Estou estudando desenvolvimento web pela Trybe
