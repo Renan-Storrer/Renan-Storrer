@@ -2,8 +2,8 @@
 
 ## Olá, eu sou o Renan Rafael Storrer!
 
-- 🔭 Estou procurando meu primeiro emprego como um desenvolvedor FullStack
-- 🌱 Estou estudando desenvolvimento web pela Trybe
+- 🔭 Estou procurando meu primeiro emprego como um desenvolvedor FullStack.
+- 🌱 Estou estudando desenvolvimento web pela Trybe.
 - 📧 contate-me: storrerrenan@gmail.com
 - 📱 (41) 99584-3212
 
