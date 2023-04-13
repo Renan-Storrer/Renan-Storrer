@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="3500px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-## Olá, eu sou o Renan!
+## Oi, eu sou o Renan!
 
 - 🔭 Estou procurando meu primeiro emprego como um desenvolvedor FullStack.
 - 🌱 Estou estudando desenvolvimento web pela _[Trybe](https://www.betrybe.com)_
