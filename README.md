@@ -64,10 +64,7 @@
 ## Meus contatos:
 
 <div> 
-   <a href = "mailto:storrerrenan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:storrerrenan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renanstorrer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5541995843212" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/Renan-Storrer/Renan-Storrer/blob/output/github-contribution-grid-snake.svg)
- 
+  <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5541995843212" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
