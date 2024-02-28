@@ -3,9 +3,8 @@
 ## Olá, eu sou o Renan!
 
 - 🔭 Estou procurando meu primeiro emprego como um desenvolvedor FullStack.
-- 🌱 Estou estudando desenvolvimento web pela _[Trybe](https://www.betrybe.com)_
+- 🌱 Estou estudando Ciência da Computação pela _[UniCuritiba](https://pos.unicuritiba.com.br)_
 - ❤️ Amo animais, games e animes.
-- 📚 Quer saber mais sobre meus estudos e conhecimentos? Então eu te indico a dar uma olhada no meu repositório "trybe-exercicios" que está pinado em meu GitHub :D
 - 📧 Contate-me: storrerrenan@gmail.com
 - 📱 (41) 99584-3212
 
